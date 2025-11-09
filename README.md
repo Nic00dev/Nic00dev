@@ -24,16 +24,23 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 </div>
+<div align="center">
 
 #### 🖥️ Frameworks 
 ![Django](https://img.shields.io/badge/Django-%2314354C.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%2302569B.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+</div>
+
+<div align="center">
 
 #### 📚 Libraries
 
 ![Tkinter](https://img.shields.io/badge/tkinter-%23013243.svg?style=for-the-badge&logo=tkinter&logoColor=white)
 ![Customtkinter](https://img.shields.io/badge/customtkinter-%23013243.svg?style=for-the-badge&logo=customtkinter&logoColor=white)
+
+</div>
+
 
 #### 🔧 Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
