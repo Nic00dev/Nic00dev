@@ -58,7 +58,7 @@
 
 ---
 
-<p align="center"><i>“Code. Learn. Repeat.”</i></p>
+<p align="center"><i>“Compile the void. Execute the infinite.”</i></p>
 
 
 
