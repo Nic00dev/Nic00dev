@@ -22,14 +22,14 @@
 
 ### ⚙️ Core Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,java,mysql,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,java,django,mysql,androidstudio" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tkinter-%23013243.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/CustomTkinter-%23013243.svg?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,java,django,mysql,androidstudio" />
 </p>
+
 
 ---
 
