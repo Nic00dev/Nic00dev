@@ -6,12 +6,6 @@
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
-<code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,autocad,c,django,git,github,gmail,discord,idea,java,linkedin,mint,mysql,php,postman,py,sqlite,sublime,ubuntu,vscode,windows)](https://skillicons.dev)
 **Nic00dev/Nic00dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 💖 Support the Project
 
