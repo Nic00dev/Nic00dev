@@ -39,6 +39,14 @@
 
 ---
 
+### 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nic00dev&show_icons=true&theme=transparent&hide_border=true&title_color=4CAF50&text_color=9f9f9f&icon_color=4CAF50" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nic00dev&layout=compact&theme=transparent&hide_border=true&title_color=4CAF50&text_color=9f9f9f" width="48%"/>
+</p>
+
+---
+
 ### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:tuemail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
@@ -54,8 +62,6 @@
 </p>
 
 <p align="center"><i>“Code. Learn. Repeat.”</i></p>
-
-
 
 
 
