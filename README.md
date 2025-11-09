@@ -57,10 +57,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nic00dev&color=4CAF50&style=flat-square&label=Profile+Views" />
-</p>
-
 <p align="center"><i>“Code. Learn. Repeat.”</i></p>
 
 
