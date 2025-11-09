@@ -114,6 +114,8 @@ Credits: [Birunthaban Sarventhiran](https://github.com/Birunthaban)
 
 
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 ## 🙋‍♀️ Let's Connect
 <p align="center">
   <a href="https://candida-noronha.web.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
