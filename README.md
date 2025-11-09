@@ -1,7 +1,5 @@
-<h1 align="center">
-  Hi, I'm Nico 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<h1 align="center">Hi, I'm Nico 👋</h1>
+
 
 <p align="center">
   💻 Software Engineer | Full Stack Developer | Android & Desktop App Creator  
