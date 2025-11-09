@@ -44,12 +44,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nic00dev&show_icons=true&theme=transparent&hide_border=true&title_color=4CAF50&text_color=9f9f9f&icon_color=4CAF50" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nic00dev&layout=compact&theme=transparent&hide_border=true&title_color=4CAF50&text_color=9f9f9f" width="48%"/>
-</p>
-
-
 <p align="center">
   <a href="https://cafecito.app/Nic00dev" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 50px;width: 180px;" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2910/2910766.png" alt="Cafecito" width="40"/>
   </a>
 </p>
 
