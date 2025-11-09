@@ -52,6 +52,12 @@
 
 ---
 
+<p align="center">
+  <a href="https://cafecito.app/Nic00dev" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 50px;width: 180px;" />
+  </a>
+</p>
+
 ### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:nicoduarte433@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
