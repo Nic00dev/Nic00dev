@@ -50,10 +50,9 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:tuemail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-  <a href="https://linkedin.com/in/tuusuario"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="mailto:nicoduarte433@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="https://www.linkedin.com/in/nic00dev/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   <a href="https://github.com/Nic00dev"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-  <a href="https://instagram.com/tuusuario"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
 </p>
 
 ---
