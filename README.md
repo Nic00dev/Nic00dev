@@ -1,88 +1,60 @@
 <h1 align="center">Hi, I'm Nico 👋</h1>
 
 <p align="center">
+  💻 Software Engineer | Full Stack Developer | Android & Desktop App Creator  
+</p>
+
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C23E&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Tech+Enthusiast+%F0%9F%92%BB" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4CAF50&center=true&vCenter=true&width=550&lines=Python+%7C+Tkinter+%7C+CustomTkinter+%7C+SQL;HTML+%7C+CSS+%7C+Bootstrap;Android+Development+with+Java;Clean+Code+.+Elegant+UI+.+Smart+Design.">
   </a>
 </p>
 
 ---
 
-### 🧰 About Me
+### 🧠 About Me
+- 🎯 Focused on creating smooth, efficient and user-friendly applications.  
+- 💬 Skilled in **Python**, **Desktop UI (Tkinter / CustomTkinter)**, and **Web Frontend**.  
+- 📱 Also experienced in **Android development** with **Java**.  
+- ☕ Constantly learning, improving, and building with passion.  
+
+---
+
+### ⚙️ Core Tech Stack
 <p align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" />
-  <b>My Working Tools</b>
+  <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,java,mysql,androidstudio" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tkinter-%23013243.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CustomTkinter-%23013243.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
+### 🧰 Tools & Environment
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-</p>
-
-### 🧩 Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### 📚 Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/tkinter-%23013243.svg?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/customtkinter-%23013243.svg?style=for-the-badge&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### ⚙️ Version Control & IDEs
-<p align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/intellij%20idea-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vscode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-### 🐧 Operating Systems
-<p align="center">
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-</p>
-
-### 🧪 Testing & Servers
-<p align="center">
-  <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux,ubuntu" />
 </p>
 
 ---
 
-## 🌐 Let's Connect
+### 🌐 Connect With Me
 <p align="center">
-  <a href="mailto:tuemail@gmail.com"><img src="https://img.icons8.com/bubbles/100/000000/gmail.png" width="60" /></a>
-  <a href="https://www.linkedin.com/in/tuusuario/"><img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" width="60" /></a>
-  <a href="https://github.com/tuusuario"><img src="https://img.icons8.com/bubbles/100/000000/github.png" width="60" /></a>
-  <a href="https://instagram.com/tuusuario"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" width="60" /></a>
-  <a href="https://discord.gg/"><img src="https://img.icons8.com/bubbles/100/000000/discord.png" width="60" /></a>
+  <a href="mailto:tuemail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="https://linkedin.com/in/tuusuario"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://github.com/Nic00dev"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="https://instagram.com/tuusuario"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nic00dev&color=blueviolet&style=flat-square&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nic00dev&color=4CAF50&style=flat-square&label=Profile+Views" />
 </p>
+
+<p align="center"><i>“Code. Learn. Repeat.”</i></p>
+
 
 
 
